@@ -1,0 +1,27 @@
+{
+  "name": "babel-polyfill-safe",
+  "version": "6.6.1",
+  "description": "babel-polyfill that can be required more than once",
+  "main": "babel-polyfill-safe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-w-ross/babel-polyfill-safe.git"
+  },
+  "keywords": [
+    "babel",
+    "polyfill",
+    "safe"
+  ],
+  "author": "Andrew Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew-w-ross/babel-polyfill-safe/issues"
+  },
+  "homepage": "https://github.com/andrew-w-ross/babel-polyfill-safe#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.6.1"
+  }
+}
